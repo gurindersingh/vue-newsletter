@@ -1,6 +1,6 @@
 {
   "name": "@gurinder/vue-newsletter",
-  "version": "1.0.0", 
+  "version": "1.0.0",
   "private": false,
   "license": "MIT",
   "author": "Gurinder Chauhan <gurinderchauhan@gmail.com>",
@@ -30,6 +30,7 @@
     "*.md"
   ],
   "dependencies": {
+    "axios": "^0.18.0",
     "vue": "^2.5.16"
   },
   "devDependencies": {
